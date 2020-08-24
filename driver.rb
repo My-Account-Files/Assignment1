@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'date'
-require_relative 'calendar1'
+require_relative 'calendar'
 calendar = Calendar.new
 calendar.display_calendar
 event_date=0
